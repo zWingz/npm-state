@@ -1,0 +1,19 @@
+title: 'zWing Npm State'
+
+template: acyort-plugin-npm-state
+
+public: ./docs
+
+plugins:
+  - acyort-plugin-npm-state
+
+npmRepo:
+  - '@zzwing/react-image'
+  - '@zzwing/react-table'
+  - '@zzwing/react-form-wrapper'
+  - 'husky-tslint-pre-commit'
+  - 'sao-rc-ts-scaffold'
+  - 'lite-queue'
+  - 'remark-container'
+  - 'picgo-plugin-github-plus'
+  - 'acyort-donob-renderer'

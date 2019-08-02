@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "acyort flow",
+    "dev": "serve ./docs",
+    "prepublish": "yarn build"
+  },
+  "dependencies": {
+    "acyort": "^3.4.0",
+    "acyort-plugin-npm-state": "^0.1.0"
+  },
+  "devDependencies": {
+    "serve": "^11.1.0"
+  }
+}
