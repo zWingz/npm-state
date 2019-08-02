@@ -4,6 +4,10 @@ template: acyort-plugin-npm-state
 
 public: ./docs
 
+url: https://zwing.site/npm-state
+
+root: ./
+
 plugins:
   - acyort-plugin-npm-state
 
