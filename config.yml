@@ -15,9 +15,10 @@ npmRepo:
   - '@zzwing/react-image'
   - '@zzwing/react-table'
   - '@zzwing/react-form-wrapper'
-  - 'husky-tslint-pre-commit'
-  - 'sao-rc-ts-scaffold'
-  - 'lite-queue'
-  - 'remark-container'
-  - 'picgo-plugin-github-plus'
-  - 'acyort-donob-renderer'
+  - husky-tslint-pre-commit
+  - sao-rc-ts-scaffold
+  - lite-queue
+  - remark-container
+  - picgo-plugin-github-plus
+  - acyort-donob-renderer
+  - acyort-plugin-npm-state
