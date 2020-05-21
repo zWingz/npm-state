@@ -12,6 +12,8 @@ plugins:
   - acyort-plugin-npm-state
 
 npmRepo:
+  - vue-with-wrapper
+  - vuex-ts-enhance
   - '@zzwing/react-image'
   - '@zzwing/react-table'
   - '@zzwing/react-form-wrapper'
@@ -20,5 +22,4 @@ npmRepo:
   - lite-queue
   - remark-container
   - picgo-plugin-github-plus
-  - acyort-donob-renderer
-  - acyort-plugin-npm-state
+
